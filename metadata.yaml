@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8729'
     url: http://www.gutenberg.org/2009/agents/8729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39578#The-Broncho-Rider-Boys-on-the-Wyoming-TrailA-Mystery-of-the-Prairie-Stampede
 gutenberg_issued: '2012-04-30'
 gutenberg_type: Text
 identifiers:
