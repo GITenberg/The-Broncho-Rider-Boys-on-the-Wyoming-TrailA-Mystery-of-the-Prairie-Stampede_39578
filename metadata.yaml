@@ -1,0 +1,27 @@
+_repo: The-Broncho-Rider-Boys-on-the-Wyoming-TrailA-Mystery-of-the-Prairie-Stampede_39578
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fowler, Frank
+    gutenberg_agent_id: '8729'
+    url: http://www.gutenberg.org/2009/agents/8729
+description: ''
+gutenberg_issued: '2012-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wyoming -- Juvenile fiction'
+- !lcsh 'Ranches -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Cowboys -- Juvenile fiction'
+title: "The Broncho Rider Boys on the Wyoming Trail\r\nOr, A Mystery of the Prairie\
+  \ Stampede"
+url: http://www.gutenberg.org/ebooks/39578
